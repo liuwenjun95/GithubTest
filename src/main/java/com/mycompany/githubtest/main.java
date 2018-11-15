@@ -11,7 +11,7 @@ package com.mycompany.githubtest;
  */
 public class main {
     public static void main(String[] args) {
-        
+        String name = "Nguyen Nhu Dinh";
     }
     
 }
